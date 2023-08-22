@@ -17,7 +17,7 @@
 
 ### Apaixonado por aprender 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/vitorCamoos/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorCamoos&hide_progress=true)
 
 
 
