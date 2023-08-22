@@ -15,5 +15,9 @@
 <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </div><br/>
 
-Apaixonado por aprender 
+### Apaixonado por aprender 
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/vitorCamoos/github-readme-stats)
+
+
 
