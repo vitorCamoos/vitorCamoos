@@ -1,5 +1,14 @@
 ### Olá! , Eu sou o Vitor Campos 🤙🏾
 
+<h4 align="center">Currently pursuing a degree in computer science with specialization in AI ML</h4>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpy8&label=Profile%20views&color=0e75b6&style=flat" alt="arpy8" /> </p>
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=arpy8&column=-1&theme=onedark" alt="arpy8" /></p>
+
+<table style="width:100%">
+
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitorsilva.nodejs/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-campos-6b47a2289/)
 
