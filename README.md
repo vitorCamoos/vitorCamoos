@@ -1,6 +1,5 @@
-
 <img align="center" src="https://64.media.tumblr.com/6b9d5fbcc7d6ebe2c3636ed25a550787/f02e19988b551a66-43/s1280x1920/311bc898f00d0bea349351a7a36333f9f659f645.gifv" alt="banner">
-### Olá! , Eu sou o Vitor Campos 🤙🏾
+<h1 align="center">Hi 👋, I'm vitorCamoos</h1>
 
 <h4 align="center">Currently pursuing a degree in computer science with specialization in AI ML</h4>
 
@@ -16,7 +15,7 @@
 
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorCamoos&show_icons=true&theme=onedark)
 
-## Linguagens que estudo 
+##  
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
