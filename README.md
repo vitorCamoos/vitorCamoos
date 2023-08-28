@@ -1,3 +1,4 @@
+<img align="center" src="https://media.giphy.com/media/gG9fVWJdN41NeiHhzk/giphy.gif" alt="banner">
 ### Olá! , Eu sou o Vitor Campos 🤙🏾
 
 <h4 align="center">Currently pursuing a degree in computer science with specialization in AI ML</h4>
